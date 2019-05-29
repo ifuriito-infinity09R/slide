@@ -2,13 +2,13 @@
 
 HelloWorld！
 -animation |
--animation2 |
+
 
 ---
 
 ###2枚目です
 
-よろしく
+-animation2 |
 
 +++
 追加
