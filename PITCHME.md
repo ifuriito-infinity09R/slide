@@ -1,6 +1,8 @@
 ###GitPitch使えてる？
 
 HelloWorld！
+-animation |
+-animation2 |
 
 ---
 
